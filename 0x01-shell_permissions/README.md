@@ -1,0 +1,1 @@
+IN this directory, i am step by step learning about shell permissions. how to assign, change and even look up which file contains which permissions. every task is designed to get me through different permissions and workability with permissions around files and users.
