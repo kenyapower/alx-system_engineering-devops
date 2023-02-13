@@ -7,4 +7,6 @@ Task 5: learn how to use the head cmd. same as the tail cmd, head cmd displays f
 Task 6: use the head and tail command toprint only certain line of file in my case line 3.	
 TASK 7: script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.	
 TASK 8: script that writes into the file ls_cwd_content the result of the command ls -la. use ls -la > ls_cwd_content.
-TASK 9: script that duplicates the last line of the file iacta
+TASK 9: script that duplicates the last line of the file iacta.
+TASK 10: script that deletes all the regular files (not the directories) with a .js extension.
+TASK 11: script that counts the number of directories and sub-directories in the current directory.
