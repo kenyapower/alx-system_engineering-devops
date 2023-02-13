@@ -10,3 +10,7 @@ TASK 8: script that writes into the file ls_cwd_content the result of the comman
 TASK 9: script that duplicates the last line of the file iacta.
 TASK 10: script that deletes all the regular files (not the directories) with a .js extension.
 TASK 11: script that counts the number of directories and sub-directories in the current directory.
+TASK 12: script that displays the 10 newest files in the current directory.
+TASK 13: script that takes a list of words as input and prints only words that appear exactly once.
+TASK 14: Display lines containing the pattern “root” from the file /etc/passwd.
+TASK 15: Display the number of lines that contain the pattern “bin” in the file /etc/passwd.
