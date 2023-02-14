@@ -4,3 +4,7 @@ TASK 1: We are creating a script to print "Hello user" where 'user' is current u
 TASK 2: create a dir /action and let it be last thing on a path command to open in linux.  
 TASK 3: Create a script that counts the number of directories in the PATH.   
 TASK 4: we are writing a script that shows all environment viariables.   
+TASK 5: Create a script that lists all local variables and environment variables, and functions.  
+TASK 6: We are creating a new variable from a script.  
+TASK 7: we are creating a new global variable from a script files.  
+TASK 8: prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE.  
